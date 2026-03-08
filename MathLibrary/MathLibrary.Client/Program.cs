@@ -32,6 +32,7 @@ namespace CalculatorDemo
             #region Демонстрация алгебраических операций
             Console.WriteLine("\n Алгебраические операции");
             Console.WriteLine($"2 в степени 8 = {Calculator.Power(2, 8)}");
+            //как бы новые функ
 
             Console.WriteLine("\nФакториалы:");
             for (int i = 0; i <= 10; i++)
