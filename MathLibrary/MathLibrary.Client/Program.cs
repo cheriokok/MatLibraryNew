@@ -69,7 +69,9 @@ namespace CalculatorDemo
 
             TestQuadratic(1, 2, 1);     
             TestQuadratic(1, 0, 1);      
-            TestQuadratic(2, 4, 2);     
+            TestQuadratic(2, 4, 2);   
+            
+        // в другой практике уже все готово
 
             try
             {
