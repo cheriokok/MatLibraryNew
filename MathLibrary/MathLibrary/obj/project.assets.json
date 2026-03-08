@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sssif\\source\\repos\\MathLibrary\\MathLibrary\\MathLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\sssif\\OneDrive\\Desktop\\MathLibraryProject\\MathLibrary\\MathLibrary\\MathLibrary.csproj",
       "projectName": "MathLibrary",
-      "projectPath": "C:\\Users\\sssif\\source\\repos\\MathLibrary\\MathLibrary\\MathLibrary.csproj",
+      "projectPath": "C:\\Users\\sssif\\OneDrive\\Desktop\\MathLibraryProject\\MathLibrary\\MathLibrary\\MathLibrary.csproj",
       "packagesPath": "C:\\Users\\sssif\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sssif\\source\\repos\\MathLibrary\\MathLibrary\\obj\\",
+      "outputPath": "C:\\Users\\sssif\\OneDrive\\Desktop\\MathLibraryProject\\MathLibrary\\MathLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

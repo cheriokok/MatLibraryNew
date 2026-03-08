@@ -99,6 +99,7 @@ namespace CalculatorDemo
             if (!result.hasRoots)
             {
                 Console.WriteLine($"Уравнение {a}x^2 + {b}x + {c} = 0 не имеет действительных корней");
+                //изменение обработок
             }
             else if (result.root2 == null)
             {
