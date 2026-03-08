@@ -16,6 +16,7 @@ namespace CalculatorDemo
             Console.WriteLine($"{a} - {b} = {Calculator.Subtract(a, b)}");
             Console.WriteLine($"{a} * {b} = {Calculator.Multiply(a, b)}");
             Console.WriteLine($"{a} / {b} = {Calculator.Divide(a, b)}");
+            //уже есть вся демонстрация 
 
             try
             {
