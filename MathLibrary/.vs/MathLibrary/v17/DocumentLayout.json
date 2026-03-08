@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sssif\\source\\repos\\MathLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41DBB186-0D44-41C2-B2B5-53E60D7E1CF5}|MathLibrary.Client\\MathLibrary.Client.csproj|c:\\users\\sssif\\source\\repos\\mathlibrary\\mathlibrary.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41DBB186-0D44-41C2-B2B5-53E60D7E1CF5}|MathLibrary.Client\\MathLibrary.Client.csproj|solutionrelative:mathlibrary.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8FEF82F-4FA3-4CB6-9D7E-1EB4DBD07A23}|MathLibrary\\MathLibrary.csproj|c:\\users\\sssif\\source\\repos\\mathlibrary\\mathlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8FEF82F-4FA3-4CB6-9D7E-1EB4DBD07A23}|MathLibrary\\MathLibrary.csproj|solutionrelative:mathlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sssif\\source\\repos\\MathLibrary\\MathLibrary.Client\\Program.cs",
+              "RelativeDocumentMoniker": "MathLibrary.Client\\Program.cs",
+              "ToolTip": "C:\\Users\\sssif\\source\\repos\\MathLibrary\\MathLibrary.Client\\Program.cs",
+              "RelativeToolTip": "MathLibrary.Client\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwGwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T07:09:33.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\sssif\\source\\repos\\MathLibrary\\MathLibrary\\Class1.cs",
+              "RelativeDocumentMoniker": "MathLibrary\\Class1.cs",
+              "ToolTip": "C:\\Users\\sssif\\source\\repos\\MathLibrary\\MathLibrary\\Class1.cs",
+              "RelativeToolTip": "MathLibrary\\Class1.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAgwKMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T07:07:10.03Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
